@@ -13,7 +13,7 @@
 | | 章节 | 译者 |
 | --- | --- | --- |
 | 1 | 预处理 | [muxuezi](https://muxuezi.github.io/posts/1-premodel-workflow.html) |
-| 2 | 回归 | [muxuezi](https://muxuezi.github.io/posts/1-premodel-workflow.html) |
+| 2 | 回归 | [muxuezi](https://muxuezi.github.io/posts/2-working-with-linear-models.html) |
 | 3 | 聚类 | [飞龙](https://github.com/wizardforcel) |
 | 4 | 分类 | [飞龙](https://github.com/wizardforcel) |
 | 5 | 后处理 | [飞龙](https://github.com/wizardforcel) |
